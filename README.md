@@ -6,7 +6,7 @@ Below you'll find information about performing common tasks. The most recent ver
 
 ### Real world examples
 
-<img src="https://github.com/AbdelrahmanSalemBakry111/Awesome-Places/blob/AP-1/gif/2018_07_26_16_45_11[1].gif?raw=true" width="240">
+<img src="https://github.com/AbdelrahmanSalemBakry111/React-Native-Awesome-Places/blob/master/gif/2018_07_26_16_45_11%5B1%5D.gif?raw=true" width="240">
 
 
 * [Updating to New Releases](#updating-to-new-releases)
